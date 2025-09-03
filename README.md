@@ -29,4 +29,11 @@ This project demonstrates how to fetch and display user, post, and comment data 
    ```bash
    git clone https://github.com/mina500-n/freelance-dashboard.git
 
+
+## 🔍 Preview
+
 <img width="1838" height="903" alt="Screenshot 2025-09-03 195331" src="https://github.com/user-attachments/assets/57c6e24d-515c-4cc3-be56-145be95c4475" />
+
+<img width="1816" height="923" alt="Screenshot 2025-09-03 195322" src="https://github.com/user-attachments/assets/1be9924e-101d-4438-b744-42d45728897a" />
+<img width="1824" height="936" alt="Screenshot 2025-09-03 195305" src="https://github.com/user-attachments/assets/e0b029df-d762-49a6-97e1-3661539329d1" />
+<img width="1852" height="932" alt="Screenshot 2025-09-03 195227" src="https://github.com/user-attachments/assets/8c32f983-52c4-41df-8afc-8b49f7ad78fd" />
