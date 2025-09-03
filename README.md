@@ -24,12 +24,6 @@ This project demonstrates how to fetch and display user, post, and comment data 
 - [Toastr.js](https://codeseven.github.io/toastr/)
 - [Google Fonts - Inter](https://fonts.google.com/specimen/Inter)
 
-
-## 🔍 نموذج من المشروع
-
-https://private-user-images.githubusercontent.com/75311671/485243280-d008e904-97a9-49f6-ab46-bef9e80a2a78.png
-
-
 ## ⚙️ Setup & Run
 1. Clone this repository or download the ZIP:
    ```bash
