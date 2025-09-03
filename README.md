@@ -24,7 +24,10 @@ This project demonstrates how to fetch and display user, post, and comment data 
 - [Toastr.js](https://codeseven.github.io/toastr/)
 - [Google Fonts - Inter](https://fonts.google.com/specimen/Inter)
 
----
+
+## 🔍 نموذج من المشروع
+
+![Preview](https://user-images.githubusercontent.com/https://github.com/mina500-n/freelance-dashboard/issues/1#issue-3380633476)
 
 ## ⚙️ Setup & Run
 1. Clone this repository or download the ZIP:
