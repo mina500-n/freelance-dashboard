@@ -29,4 +29,4 @@ This project demonstrates how to fetch and display user, post, and comment data 
 ## ⚙️ Setup & Run
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone https://github.com/yourusername/freelance-dashboard.git
+   git clone https://github.com/mina500-n/freelance-dashboard.git
